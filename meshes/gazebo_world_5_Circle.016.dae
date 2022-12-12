@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<COLLADA xmlns="http://www.collada.org/2005/11/COLLADASchema" version="1.4.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <asset>
+    <contributor>
+      <author>Blender User</author>
+      <authoring_tool>Blender 3.4.0 commit date:2022-12-06, commit time:18:46, hash:a95bf1ac01be</authoring_tool>
+    </contributor>
+    <created>2022-12-11T18:04:03</created>
+    <modified>2022-12-11T18:04:03</modified>
+    <unit name="meter" meter="1"/>
+    <up_axis>Z_UP</up_axis>
+  </asset>
+  <library_effects>
+    <effect id="Material_037-effect">
+      <profile_COMMON>
+        <technique sid="common">
+          <lambert>
+            <emission>
+              <color sid="emission">0 0 0 1</color>
+            </emission>
+            <diffuse>
+              <color sid="diffuse">1 1 1 1</color>
+            </diffuse>
+            <index_of_refraction>
+              <float sid="ior">1.45</float>
+            </index_of_refraction>
+          </lambert>
+        </technique>
+      </profile_COMMON>
+    </effect>
+  </library_effects>
+  <library_images/>
+  <library_materials>
+    <material id="Material_037-material" name="Material.037">
+      <instance_effect url="#Material_037-effect"/>
+    </material>
+  </library_materials>
+  <library_geometries>
+    <geometry id="Circle_016-mesh" name="Circle.016">
+      <mesh>
+        <source id="Circle_016-mesh-positions">
+          <float_array id="Circle_016-mesh-positions-array" count="96">0 0.65 0 -0.1268087 0.6375104 0 -0.2487442 0.6005217 0 -0.3611207 0.5404552 0 -0.4596194 0.4596194 0 -0.5404552 0.3611207 0 -0.6005217 0.2487442 0 -0.6375104 0.1268087 0 -0.65 0 0 -0.6375104 -0.1268087 0 -0.6005217 -0.2487442 0 -0.5404552 -0.3611207 0 -0.4596194 -0.4596194 0 -0.3611207 -0.5404552 0 -0.2487442 -0.6005217 0 -0.1268087 -0.6375104 0 0 -0.65 0 0.1268087 -0.6375104 0 0.2487442 -0.6005217 0 0.3611207 -0.5404552 0 0.4596194 -0.4596194 0 0.5404552 -0.3611207 0 0.6005217 -0.2487442 0 0.6375104 -0.1268087 0 0.65 0 0 0.6375104 0.1268087 0 0.6005217 0.2487442 0 0.5404552 0.3611207 0 0.4596194 0.4596194 0 0.3611207 0.5404552 0 0.2487442 0.6005217 0 0.1268087 0.6375104 0</float_array>
+          <technique_common>
+            <accessor source="#Circle_016-mesh-positions-array" count="32" stride="3">
+              <param name="X" type="float"/>
+              <param name="Y" type="float"/>
+              <param name="Z" type="float"/>
+            </accessor>
+          </technique_common>
+        </source>
+        <source id="Circle_016-mesh-normals">
+          <float_array id="Circle_016-mesh-normals-array" count="3">0 0 1</float_array>
+          <technique_common>
+            <accessor source="#Circle_016-mesh-normals-array" count="1" stride="3">
+              <param name="X" type="float"/>
+              <param name="Y" type="float"/>
+              <param name="Z" type="float"/>
+            </accessor>
+          </technique_common>
+        </source>
+        <source id="Circle_016-mesh-map-0">
+          <float_array id="Circle_016-mesh-map-0-array" count="180">0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0</float_array>
+          <technique_common>
+            <accessor source="#Circle_016-mesh-map-0-array" count="90" stride="2">
+              <param name="S" type="float"/>
+              <param name="T" type="float"/>
+            </accessor>
+          </technique_common>
+        </source>
+        <vertices id="Circle_016-mesh-vertices">
+          <input semantic="POSITION" source="#Circle_016-mesh-positions"/>
+        </vertices>
+        <triangles material="Material_037-material" count="30">
+          <input semantic="VERTEX" source="#Circle_016-mesh-vertices" offset="0"/>
+          <input semantic="NORMAL" source="#Circle_016-mesh-normals" offset="1"/>
+          <input semantic="TEXCOORD" source="#Circle_016-mesh-map-0" offset="2" set="0"/>
+          <p>16 0 0 24 0 1 0 0 2 0 0 3 1 0 4 2 0 5 2 0 6 3 0 7 0 0 8 3 0 9 4 0 10 0 0 11 4 0 12 5 0 13 6 0 14 6 0 15 7 0 16 4 0 17 7 0 18 8 0 19 4 0 20 8 0 21 9 0 22 10 0 23 10 0 24 11 0 25 8 0 26 11 0 27 12 0 28 8 0 29 12 0 30 13 0 31 14 0 32 14 0 33 15 0 34 12 0 35 15 0 36 16 0 37 12 0 38 16 0 39 17 0 40 18 0 41 18 0 42 19 0 43 16 0 44 19 0 45 20 0 46 16 0 47 20 0 48 21 0 49 22 0 50 22 0 51 23 0 52 20 0 53 23 0 54 24 0 55 20 0 56 24 0 57 25 0 58 26 0 59 26 0 60 27 0 61 24 0 62 27 0 63 28 0 64 24 0 65 28 0 66 29 0 67 30 0 68 30 0 69 31 0 70 28 0 71 31 0 72 0 0 73 28 0 74 0 0 75 4 0 76 8 0 77 8 0 78 12 0 79 16 0 80 16 0 81 20 0 82 24 0 83 24 0 84 28 0 85 0 0 86 0 0 87 8 0 88 16 0 89</p>
+        </triangles>
+      </mesh>
+    </geometry>
+  </library_geometries>
+  <library_visual_scenes>
+    <visual_scene id="Scene" name="Scene">
+      <node id="Circle_016" name="Circle.016" type="NODE">
+        <matrix sid="transform">1 0 0 17.87366 0 1 0 4.985449 0 0 1 0.7033394 0 0 0 1</matrix>
+        <instance_geometry url="#Circle_016-mesh" name="Circle.016">
+          <bind_material>
+            <technique_common>
+              <instance_material symbol="Material_037-material" target="#Material_037-material">
+                <bind_vertex_input semantic="Circle-mesh-map-0" input_semantic="TEXCOORD" input_set="0"/>
+              </instance_material>
+            </technique_common>
+          </bind_material>
+        </instance_geometry>
+      </node>
+    </visual_scene>
+  </library_visual_scenes>
+  <scene>
+    <instance_visual_scene url="#Scene"/>
+  </scene>
+</COLLADA>
