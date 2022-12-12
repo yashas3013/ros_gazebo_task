@@ -364,7 +364,7 @@
           <geometry>
             <mesh>
               <scale>1 1 1</scale>
-              <uri>model://meshes_igvc/gazebo_world_5_Circle.dae</uri>
+              <uri>model://gazebo_world_5_Circle.dae</uri>
             </mesh>
           </geometry>
           <max_contacts>10</max_contacts>
@@ -386,7 +386,7 @@
           <geometry>
             <mesh>
               <scale>1 1 1</scale>
-              <uri>model://meshes_igvc/gazebo_world_5_Circle.dae</uri>
+              <uri>model://gazebo_world_5_Circle.dae</uri>
             </mesh>
           </geometry>
         </visual>
@@ -416,7 +416,7 @@
           <geometry>
             <mesh>
               <scale>1 1 1</scale>
-              <uri>model://meshes_igvc/gazebo_world_5_Circle.003.dae</uri>
+              <uri>model://gazebo_world_5_Circle.003.dae</uri>
             </mesh>
           </geometry>
           <max_contacts>10</max_contacts>
@@ -438,7 +438,7 @@
           <geometry>
             <mesh>
               <scale>1 1 1</scale>
-              <uri>model://meshes_igvc/gazebo_world_5_Circle.003.dae</uri>
+              <uri>model://gazebo_world_5_Circle.003.dae</uri>
             </mesh>
           </geometry>
         </visual>
@@ -468,7 +468,7 @@
           <geometry>
             <mesh>
               <scale>1 1 1</scale>
-              <uri>model://meshes_igvc/gazebo_world_5_Circle.002.dae</uri>
+              <uri>model://gazebo_world_5_Circle.002.dae</uri>
             </mesh>
           </geometry>
           <max_contacts>10</max_contacts>
@@ -490,7 +490,7 @@
           <geometry>
             <mesh>
               <scale>1 1 1</scale>
-              <uri>model://meshes_igvc/gazebo_world_5_Circle.002.dae</uri>
+              <uri>model://gazebo_world_5_Circle.002.dae</uri>
             </mesh>
           </geometry>
         </visual>
@@ -520,7 +520,7 @@
           <geometry>
             <mesh>
               <scale>1 1 1</scale>
-              <uri>model://meshes_igvc/gazebo_world_5_Circle.012.dae</uri>
+              <uri>model://gazebo_world_5_Circle.012.dae</uri>
             </mesh>
           </geometry>
           <max_contacts>10</max_contacts>
@@ -542,7 +542,7 @@
           <geometry>
             <mesh>
               <scale>1 1 1</scale>
-              <uri>model://meshes_igvc/gazebo_world_5_Circle.012.dae</uri>
+              <uri>model://gazebo_world_5_Circle.012.dae</uri>
             </mesh>
           </geometry>
         </visual>
@@ -572,7 +572,7 @@
           <geometry>
             <mesh>
               <scale>1 1 1</scale>
-              <uri>model://meshes_igvc/gazebo_world_5_Circle.004.dae</uri>
+              <uri>model://gazebo_world_5_Circle.004.dae</uri>
             </mesh>
           </geometry>
           <max_contacts>10</max_contacts>
@@ -594,7 +594,7 @@
           <geometry>
             <mesh>
               <scale>1 1 1</scale>
-              <uri>model://meshes_igvc/gazebo_world_5_Circle.004.dae</uri>
+              <uri>model://gazebo_world_5_Circle.004.dae</uri>
             </mesh>
           </geometry>
         </visual>
@@ -624,7 +624,7 @@
           <geometry>
             <mesh>
               <scale>1 1 1</scale>
-              <uri>model://meshes_igvc/gazebo_world_5_Circle.005.dae</uri>
+              <uri>model://gazebo_world_5_Circle.005.dae</uri>
             </mesh>
           </geometry>
           <max_contacts>10</max_contacts>
@@ -646,7 +646,7 @@
           <geometry>
             <mesh>
               <scale>1 1 1</scale>
-              <uri>model://meshes_igvc/gazebo_world_5_Circle.005.dae</uri>
+              <uri>model://gazebo_world_5_Circle.005.dae</uri>
             </mesh>
           </geometry>
         </visual>
@@ -676,7 +676,7 @@
           <geometry>
             <mesh>
               <scale>1 1 1</scale>
-              <uri>model://meshes_igvc/gazebo_world_5_Circle.015.dae</uri>
+              <uri>model://gazebo_world_5_Circle.015.dae</uri>
             </mesh>
           </geometry>
           <max_contacts>10</max_contacts>
@@ -698,7 +698,7 @@
           <geometry>
             <mesh>
               <scale>1 1 1</scale>
-              <uri>model://meshes_igvc/gazebo_world_5_Circle.015.dae</uri>
+              <uri>model://gazebo_world_5_Circle.015.dae</uri>
             </mesh>
           </geometry>
         </visual>
@@ -728,7 +728,7 @@
           <geometry>
             <mesh>
               <scale>1 1 1</scale>
-              <uri>model://meshes_igvc/gazebo_world_5_Circle.006.dae</uri>
+              <uri>model://gazebo_world_5_Circle.006.dae</uri>
             </mesh>
           </geometry>
           <max_contacts>10</max_contacts>
@@ -750,7 +750,7 @@
           <geometry>
             <mesh>
               <scale>1 1 1</scale>
-              <uri>model://meshes_igvc/gazebo_world_5_Circle.006.dae</uri>
+              <uri>model://gazebo_world_5_Circle.006.dae</uri>
             </mesh>
           </geometry>
         </visual>
@@ -780,7 +780,7 @@
           <geometry>
             <mesh>
               <scale>1 1 1</scale>
-              <uri>model://meshes_igvc/gazebo_world_5_Circle.009.dae</uri>
+              <uri>model://gazebo_world_5_Circle.009.dae</uri>
             </mesh>
           </geometry>
           <max_contacts>10</max_contacts>
@@ -802,7 +802,7 @@
           <geometry>
             <mesh>
               <scale>1 1 1</scale>
-              <uri>model://meshes_igvc/gazebo_world_5_Circle.009.dae</uri>
+              <uri>model://gazebo_world_5_Circle.009.dae</uri>
             </mesh>
           </geometry>
         </visual>
@@ -832,7 +832,7 @@
           <geometry>
             <mesh>
               <scale>1 1 1</scale>
-              <uri>model://meshes_igvc/gazebo_world_5_Circle.007.dae</uri>
+              <uri>model://gazebo_world_5_Circle.007.dae</uri>
             </mesh>
           </geometry>
           <max_contacts>10</max_contacts>
@@ -854,7 +854,7 @@
           <geometry>
             <mesh>
               <scale>1 1 1</scale>
-              <uri>model://meshes_igvc/gazebo_world_5_Circle.007.dae</uri>
+              <uri>model://gazebo_world_5_Circle.007.dae</uri>
             </mesh>
           </geometry>
         </visual>
@@ -884,7 +884,7 @@
           <geometry>
             <mesh>
               <scale>1 1 1</scale>
-              <uri>model://meshes_igvc/gazebo_world_5_Circle.022.dae</uri>
+              <uri>model://gazebo_world_5_Circle.022.dae</uri>
             </mesh>
           </geometry>
           <max_contacts>10</max_contacts>
@@ -906,7 +906,7 @@
           <geometry>
             <mesh>
               <scale>1 1 1</scale>
-              <uri>model://meshes_igvc/gazebo_world_5_Circle.022.dae</uri>
+              <uri>model://gazebo_world_5_Circle.022.dae</uri>
             </mesh>
           </geometry>
         </visual>
@@ -936,7 +936,7 @@
           <geometry>
             <mesh>
               <scale>1 1 1</scale>
-              <uri>model://meshes_igvc/gazebo_world_5_Circle.008.dae</uri>
+              <uri>model://gazebo_world_5_Circle.008.dae</uri>
             </mesh>
           </geometry>
           <max_contacts>10</max_contacts>
@@ -958,7 +958,7 @@
           <geometry>
             <mesh>
               <scale>1 1 1</scale>
-              <uri>model://meshes_igvc/gazebo_world_5_Circle.008.dae</uri>
+              <uri>model://gazebo_world_5_Circle.008.dae</uri>
             </mesh>
           </geometry>
         </visual>
@@ -988,7 +988,7 @@
           <geometry>
             <mesh>
               <scale>1 1 1</scale>
-              <uri>model://meshes_igvc/gazebo_world_5_Circle.016.dae</uri>
+              <uri>model://gazebo_world_5_Circle.016.dae</uri>
             </mesh>
           </geometry>
           <max_contacts>10</max_contacts>
@@ -1010,7 +1010,7 @@
           <geometry>
             <mesh>
               <scale>1 1 1</scale>
-              <uri>model://meshes_igvc/gazebo_world_5_Circle.016.dae</uri>
+              <uri>model://gazebo_world_5_Circle.016.dae</uri>
             </mesh>
           </geometry>
         </visual>
@@ -1040,7 +1040,7 @@
           <geometry>
             <mesh>
               <scale>1 1 1</scale>
-              <uri>model://meshes_igvc/gazebo_world_5_Plane_dotted.dae</uri>
+              <uri>model://gazebo_world_5_Plane_dotted.dae</uri>
             </mesh>
           </geometry>
           <max_contacts>10</max_contacts>
@@ -1062,7 +1062,7 @@
           <geometry>
             <mesh>
               <scale>1 1 1</scale>
-              <uri>model://meshes_igvc/gazebo_world_5_Plane_dotted.dae</uri>
+              <uri>model://gazebo_world_5_Plane_dotted.dae</uri>
             </mesh>
           </geometry>
         </visual>
@@ -1092,7 +1092,7 @@
           <geometry>
             <mesh>
               <scale>1 1 1</scale>
-              <uri>model://meshes_igvc/gazebo_world_5_Circle.010.dae</uri>
+              <uri>model://gazebo_world_5_Circle.010.dae</uri>
             </mesh>
           </geometry>
           <max_contacts>10</max_contacts>
@@ -1114,7 +1114,7 @@
           <geometry>
             <mesh>
               <scale>1 1 1</scale>
-              <uri>model://meshes_igvc/gazebo_world_5_Circle.010.dae</uri>
+              <uri>model://gazebo_world_5_Circle.010.dae</uri>
             </mesh>
           </geometry>
         </visual>
@@ -1144,7 +1144,7 @@
           <geometry>
             <mesh>
               <scale>1 1 1</scale>
-              <uri>model://meshes_igvc/gazebo_world_5_Circle.013.dae</uri>
+              <uri>model://gazebo_world_5_Circle.013.dae</uri>
             </mesh>
           </geometry>
           <max_contacts>10</max_contacts>
@@ -1166,7 +1166,7 @@
           <geometry>
             <mesh>
               <scale>1 1 1</scale>
-              <uri>model://meshes_igvc/gazebo_world_5_Circle.013.dae</uri>
+              <uri>model://gazebo_world_5_Circle.013.dae</uri>
             </mesh>
           </geometry>
         </visual>
@@ -1196,7 +1196,7 @@
           <geometry>
             <mesh>
               <scale>1 1 1</scale>
-              <uri>model://meshes_igvc/gazebo_world_5_Circle.011.dae</uri>
+              <uri>model://gazebo_world_5_Circle.011.dae</uri>
             </mesh>
           </geometry>
           <max_contacts>10</max_contacts>
@@ -1218,7 +1218,7 @@
           <geometry>
             <mesh>
               <scale>1 1 1</scale>
-              <uri>model://meshes_igvc/gazebo_world_5_Circle.011.dae</uri>
+              <uri>model://gazebo_world_5_Circle.011.dae</uri>
             </mesh>
           </geometry>
         </visual>
@@ -1248,7 +1248,7 @@
           <geometry>
             <mesh>
               <scale>1 1 1</scale>
-              <uri>model://meshes_igvc/gazebo_world_5_Circle.017.dae</uri>
+              <uri>model://gazebo_world_5_Circle.017.dae</uri>
             </mesh>
           </geometry>
           <max_contacts>10</max_contacts>
@@ -1270,7 +1270,7 @@
           <geometry>
             <mesh>
               <scale>1 1 1</scale>
-              <uri>model://meshes_igvc/gazebo_world_5_Circle.017.dae</uri>
+              <uri>model://gazebo_world_5_Circle.017.dae</uri>
             </mesh>
           </geometry>
         </visual>
@@ -1300,7 +1300,7 @@
           <geometry>
             <mesh>
               <scale>1 1 1</scale>
-              <uri>model://meshes_igvc/gazebo_world_5_Circle.023.dae</uri>
+              <uri>model://gazebo_world_5_Circle.023.dae</uri>
             </mesh>
           </geometry>
           <max_contacts>10</max_contacts>
@@ -1322,7 +1322,7 @@
           <geometry>
             <mesh>
               <scale>1 1 1</scale>
-              <uri>model://meshes_igvc/gazebo_world_5_Circle.023.dae</uri>
+              <uri>model://gazebo_world_5_Circle.023.dae</uri>
             </mesh>
           </geometry>
         </visual>
@@ -1352,7 +1352,7 @@
           <geometry>
             <mesh>
               <scale>1 1 1</scale>
-              <uri>model://meshes_igvc/gazebo_world_5_Circle.018.dae</uri>
+              <uri>model://gazebo_world_5_Circle.018.dae</uri>
             </mesh>
           </geometry>
           <max_contacts>10</max_contacts>
@@ -1374,7 +1374,7 @@
           <geometry>
             <mesh>
               <scale>1 1 1</scale>
-              <uri>model://meshes_igvc/gazebo_world_5_Circle.018.dae</uri>
+              <uri>model://gazebo_world_5_Circle.018.dae</uri>
             </mesh>
           </geometry>
         </visual>
@@ -1404,7 +1404,7 @@
           <geometry>
             <mesh>
               <scale>1 1 1</scale>
-              <uri>model://meshes_igvc/gazebo_world_5_Circle.014.dae</uri>
+              <uri>model://gazebo_world_5_Circle.014.dae</uri>
             </mesh>
           </geometry>
           <max_contacts>10</max_contacts>
@@ -1426,7 +1426,7 @@
           <geometry>
             <mesh>
               <scale>1 1 1</scale>
-              <uri>model://meshes_igvc/gazebo_world_5_Circle.014.dae</uri>
+              <uri>model://gazebo_world_5_Circle.014.dae</uri>
             </mesh>
           </geometry>
         </visual>
@@ -1456,7 +1456,7 @@
           <geometry>
             <mesh>
               <scale>1 1 1</scale>
-              <uri>model://meshes_igvc/gazebo_world_5_Circle.019.dae</uri>
+              <uri>model://gazebo_world_5_Circle.019.dae</uri>
             </mesh>
           </geometry>
           <max_contacts>10</max_contacts>
@@ -1478,7 +1478,7 @@
           <geometry>
             <mesh>
               <scale>1 1 1</scale>
-              <uri>model://meshes_igvc/gazebo_world_5_Circle.019.dae</uri>
+              <uri>model://gazebo_world_5_Circle.019.dae</uri>
             </mesh>
           </geometry>
         </visual>
@@ -1508,7 +1508,7 @@
           <geometry>
             <mesh>
               <scale>1 1 1</scale>
-              <uri>model://meshes_igvc/gazebo_world_5_Circle.024.dae</uri>
+              <uri>model://gazebo_world_5_Circle.024.dae</uri>
             </mesh>
           </geometry>
           <max_contacts>10</max_contacts>
@@ -1530,7 +1530,7 @@
           <geometry>
             <mesh>
               <scale>1 1 1</scale>
-              <uri>model://meshes_igvc/gazebo_world_5_Circle.024.dae</uri>
+              <uri>model://gazebo_world_5_Circle.024.dae</uri>
             </mesh>
           </geometry>
         </visual>
@@ -1560,7 +1560,7 @@
           <geometry>
             <mesh>
               <scale>1 1 1</scale>
-              <uri>model://meshes_igvc/gazebo_world_5_Circle.026.dae</uri>
+              <uri>model://gazebo_world_5_Circle.026.dae</uri>
             </mesh>
           </geometry>
           <max_contacts>10</max_contacts>
@@ -1582,7 +1582,7 @@
           <geometry>
             <mesh>
               <scale>1 1 1</scale>
-              <uri>model://meshes_igvc/gazebo_world_5_Circle.026.dae</uri>
+              <uri>model://gazebo_world_5_Circle.026.dae</uri>
             </mesh>
           </geometry>
         </visual>
@@ -1612,7 +1612,7 @@
           <geometry>
             <mesh>
               <scale>1 1 1</scale>
-              <uri>model://meshes_igvc/gazebo_world_5_Circle.001.dae</uri>
+              <uri>model://gazebo_world_5_Circle.001.dae</uri>
             </mesh>
           </geometry>
           <max_contacts>10</max_contacts>
@@ -1634,7 +1634,7 @@
           <geometry>
             <mesh>
               <scale>1 1 1</scale>
-              <uri>model://meshes_igvc/gazebo_world_5_Circle.001.dae</uri>
+              <uri>model://gazebo_world_5_Circle.001.dae</uri>
             </mesh>
           </geometry>
         </visual>
@@ -1664,7 +1664,7 @@
           <geometry>
             <mesh>
               <scale>1 1 1</scale>
-              <uri>model://meshes_igvc/gazebo_world_5_Circle.020.dae</uri>
+              <uri>model://gazebo_world_5_Circle.020.dae</uri>
             </mesh>
           </geometry>
           <max_contacts>10</max_contacts>
@@ -1686,7 +1686,7 @@
           <geometry>
             <mesh>
               <scale>1 1 1</scale>
-              <uri>model://meshes_igvc/gazebo_world_5_Circle.020.dae</uri>
+              <uri>model://gazebo_world_5_Circle.020.dae</uri>
             </mesh>
           </geometry>
         </visual>
@@ -1716,7 +1716,7 @@
           <geometry>
             <mesh>
               <scale>1 1 1</scale>
-              <uri>model://meshes_igvc/gazebo_world_5_Circle.025.dae</uri>
+              <uri>model://gazebo_world_5_Circle.025.dae</uri>
             </mesh>
           </geometry>
           <max_contacts>10</max_contacts>
@@ -1738,7 +1738,7 @@
           <geometry>
             <mesh>
               <scale>1 1 1</scale>
-              <uri>model://meshes_igvc/gazebo_world_5_Circle.025.dae</uri>
+              <uri>model://gazebo_world_5_Circle.025.dae</uri>
             </mesh>
           </geometry>
         </visual>
@@ -1768,7 +1768,7 @@
           <geometry>
             <mesh>
               <scale>1 1 1</scale>
-              <uri>model://meshes_igvc/gazebo_world_5_Circle.021.dae</uri>
+              <uri>model://gazebo_world_5_Circle.021.dae</uri>
             </mesh>
           </geometry>
           <max_contacts>10</max_contacts>
@@ -1790,7 +1790,7 @@
           <geometry>
             <mesh>
               <scale>1 1 1</scale>
-              <uri>model://meshes_igvc/gazebo_world_5_Circle.021.dae</uri>
+              <uri>model://gazebo_world_5_Circle.021.dae</uri>
             </mesh>
           </geometry>
         </visual>
@@ -1820,7 +1820,7 @@
           <geometry>
             <mesh>
               <scale>1 1 1</scale>
-              <uri>model://meshes_igvc/gazebo_world_5_Circle.028.dae</uri>
+              <uri>model://gazebo_world_5_Circle.028.dae</uri>
             </mesh>
           </geometry>
           <max_contacts>10</max_contacts>
@@ -1842,7 +1842,7 @@
           <geometry>
             <mesh>
               <scale>1 1 1</scale>
-              <uri>model://meshes_igvc/gazebo_world_5_Circle.028.dae</uri>
+              <uri>model://gazebo_world_5_Circle.028.dae</uri>
             </mesh>
           </geometry>
         </visual>
@@ -1885,7 +1885,7 @@
         <pose>0 0 0 0 0 0</pose>
         <geometry>
           <mesh>
-            <uri>model://meshes_igvc/husky/base_link.stl</uri>
+            <uri>model://husky/base_link.stl</uri>
           </mesh>
         </geometry>
         <material>
@@ -1899,7 +1899,7 @@
         <pose>0 0 0 0 0 0</pose>
         <geometry>
           <mesh>
-            <uri>model://meshes_igvc/husky/top_plate.stl</uri>
+            <uri>model://husky/top_plate.stl</uri>
           </mesh>
         </geometry>
         <material>
@@ -1913,7 +1913,7 @@
         <pose>0.47 0 0.091 0 0 0</pose>
         <geometry>
           <mesh>
-            <uri>model://meshes_igvc/husky/bumper.stl</uri>
+            <uri>model://husky/bumper.stl</uri>
           </mesh>
         </geometry>
         <material>
@@ -1927,7 +1927,7 @@
         <pose>-0.47 0 0.091 0 0 3.141</pose>
         <geometry>
           <mesh>
-            <uri>model://meshes_igvc/husky/bumper.stl</uri>
+            <uri>model://husky/bumper.stl</uri>
           </mesh>
         </geometry>
         <material>
@@ -1941,7 +1941,7 @@
         <pose>0.272 0 0.245 0 0 0</pose>
         <geometry>
           <mesh>
-            <uri>model://meshes_igvc/husky/user_rail.stl</uri>
+            <uri>model://husky/user_rail.stl</uri>
           </mesh>
         </geometry>
         <material>
@@ -1989,7 +1989,7 @@
         <pose>0 0 0 -3.14159 0 0</pose>
         <geometry>
           <mesh>
-            <uri>model://meshes_igvc/husky/wheel.stl</uri>
+            <uri>model://husky/wheel.stl</uri>
           </mesh>
         </geometry>
         <material>
@@ -2053,7 +2053,7 @@
         <pose>0 0 0 -3.14159 0 0</pose>
         <geometry>
           <mesh>
-            <uri>model://meshes_igvc/husky/wheel.stl</uri>
+            <uri>model://husky/wheel.stl</uri>
           </mesh>
         </geometry>
         <material>
@@ -2117,7 +2117,7 @@
         <pose>0 0 0 -3.14159 0 0</pose>
         <geometry>
           <mesh>
-            <uri>model://meshes_igvc/husky/wheel.stl</uri>
+            <uri>model://husky/wheel.stl</uri>
           </mesh>
         </geometry>
         <material>
@@ -2142,6 +2142,85 @@
           </limit>
         </ode>
       </physics>
+    </joint>
+    <!-- Lidar link -->
+    <link name="base_scan">    
+      <inertial>
+        <pose>-0.052 0 0.111 0 0 0</pose>
+        <inertia>
+          <ixx>0.001</ixx>
+          <ixy>0.000</ixy>
+          <ixz>0.000</ixz>
+          <iyy>0.001</iyy>
+          <iyz>0.000</iyz>
+          <izz>0.001</izz>
+        </inertia>
+        <mass>0.114</mass>
+      </inertial>
+
+      <collision name="lidar_sensor_collision">
+        <pose>-0.052 0 0.111 0 0 0</pose>
+        <geometry>
+          <cylinder>
+            <radius>0.0508</radius>
+            <length>0.055</length>
+          </cylinder>
+        </geometry>
+      </collision>
+
+      <visual name="lidar_sensor_visual">
+        <pose>-0.064 0 0.121 0 0 0</pose>
+        <geometry>
+          <mesh>
+            <uri>model://lds.dae</uri>
+            <scale>0.001 0.001 0.001</scale>
+          </mesh>
+        </geometry>
+      </visual>
+
+      <sensor name="hls_lfcd_lds" type="ray">
+        <always_on>true</always_on>
+        <visualize>true</visualize>
+        <pose>-0.064 0 0.121 0 0 0</pose>
+        <update_rate>5</update_rate>
+        <ray>
+          <scan>
+            <horizontal>
+              <samples>360</samples>
+              <resolution>1.000000</resolution>
+              <min_angle>0.000000</min_angle>
+              <max_angle>6.280000</max_angle>
+            </horizontal>
+          </scan>
+          <range>
+            <min>0.120000</min>
+            <max>3.5</max>
+            <resolution>0.015000</resolution>
+          </range>
+          <noise>
+            <type>gaussian</type>
+            <mean>0.0</mean>
+            <stddev>0.01</stddev>
+          </noise>
+        </ray>
+        <plugin name="husky_laserscan" filename="libgazebo_ros_ray_sensor.so">
+          <ros>
+            <!-- <namespace>/tb3</namespace> -->
+            <remapping>~/out:=scan</remapping>
+          </ros>
+          <output_type>sensor_msgs/LaserScan</output_type>
+          <frame_name>base_scan</frame_name>
+        </plugin>
+      </sensor>
+    </link>
+    <-- Lidar joint -->
+    <joint name="lidar_joint" type="fixed">
+      <parent>base_link</parent>
+      <child>base_scan</child>
+      <pose>-0.064 0 0.121 0 0 0</pose>
+      <axis>
+        <xyz>0 0 1</xyz>
+      </axis>
     </joint>
     <!-- Front Right Wheel -->
     <link name="front_right_wheel">
@@ -2181,7 +2260,7 @@
         <pose>0 0 0 -3.14159 0 0</pose>
         <geometry>
           <mesh>
-            <uri>model://meshes_igvc/husky/wheel.stl</uri>
+            <uri>model://husky/wheel.stl</uri>
           </mesh>
         </geometry>
         <material>
@@ -2207,6 +2286,7 @@
         </ode>
       </physics>
     </joint>
+
       <plugin name='skid_steer_drive' filename='libgazebo_ros_diff_drive.so'>
 
         <!-- Number of wheel pairs -->
