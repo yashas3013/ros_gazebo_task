@@ -8,7 +8,7 @@ def generate_launch_description():
     package_dir=get_package_share_directory('igvc_world')
     world_file = os.path.join(package_dir,'worlds','gaz.world')
     pkg_gazebo_ros = get_package_share_directory('gazebo_ros')
-    urdf_file_name = os.path.join(package_dir,'urdf','turtlebot3_waffle.urdf')
+    urdf_file_name = os.path.join(package_dir,'urdf','husky.urdf.xacro')
 
 
     return LaunchDescription([
