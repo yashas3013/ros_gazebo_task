@@ -7,12 +7,14 @@
 2. colcon build
 3. source workspace
 
-
-
 ## Run
 ```bash
 ros2 launch igvc_world world.launch.py
 ```
 ---
-![image](https://user-images.githubusercontent.com/40001795/207669507-633516c4-8b3c-4c3f-995c-53f3f462503a.png)
+![image](https://github.com/yashas3013/ros_gazebo_task/assets/40001795/283d2503-ce10-46e1-a4b1-04ee24ff9612)
 
+## Task :
+1. Add lidar sensor to the bot.
+2. Add diffrential drive to the bot.
+3. Make to move using cmd_vel.
