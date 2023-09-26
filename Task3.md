@@ -26,7 +26,7 @@ This may sound difficult, but its not if you divide the problems step by step.
 <h1><i>All the best!</i></h1>
 
 ## Refrences
-[OpenCV](https://opencv.org/)
-[CV bridge](https://wiki.ros.org/cv_bridge)
-[Laser Scan](https://docs.ros.org/en/melodic/api/sensor_msgs/html/msg/LaserScan.html)
+[OpenCV](https://opencv.org/)<br>
+[CV bridge](https://wiki.ros.org/cv_bridge)<br>
+[Laser Scan](https://docs.ros.org/en/melodic/api/sensor_msgs/html/msg/LaserScan.html)<br> [Hough line Transform](https://docs.opencv.org/3.4/d9/db0/tutorial_hough_lines.html)
 
