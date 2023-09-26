@@ -24,3 +24,9 @@ This may sound difficult, but its not if you divide the problems step by step.
 
 	Note: Remember you have 2 sensors!
 <h1><i>All the best!</i></h1>
+
+## Refrences
+[OpenCV](https://opencv.org/)
+[CV bridge](https://wiki.ros.org/cv_bridge)
+[Laser Scan](https://docs.ros.org/en/melodic/api/sensor_msgs/html/msg/LaserScan.html)
+
